@@ -1,0 +1,12 @@
+body{
+	background-color: #dddddd;
+	margin: 10px;
+}
+#canvas{
+	background-color: white;
+}
+
+.ad{
+    font-size: 30px;
+    color: green;
+}
